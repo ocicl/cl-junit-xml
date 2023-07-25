@@ -1,0 +1,10 @@
+* cl-junit-xml
+
+Small library for writing junit-compatible XML files.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/cl-junit-xml.git   |
+| commit  | de9e001  |
+| systems | cl-junit-xml |
+|---------+-------------------------------------------|
+
